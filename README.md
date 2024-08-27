@@ -1,5 +1,6 @@
-<h1 align="left">Hi, Varun here </h1>
+<h1 align="center">Hi 👋, I'm Varun S P</h1>
 
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - Computer Science undergrad.
 
@@ -7,10 +8,21 @@
 
 - All of my projects are available at [https://varunsp.vercel.app/](https://varunsp.vercel.app)
 
-- How to reach me : [**spvarun47@gmail.com**](https://www.linkedin.com/in/varun-s-p)
+- How to reach me : [**spvarun47@gmail.com**](https://varunsp.vercel.app)
 
-- Linkedin : **@varun-s-p**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunsp-163&label=Profile%20views&color=0e75b6&style=flat" alt="varunsp-163" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunsp-163" alt="varunsp-163" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://varunsp.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://varunsp.vercel.app/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/163varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/163varun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-s-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-s-p/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/varun._.163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/varun._.163/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/spvarun47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/spvarun47/" height="30" width="40" /></a>
+</p>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varunsp-163&bg_color=000000&color=00a329&line=0b7f13&point=2a9237&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -25,3 +37,9 @@
 <a href="https://linkedin.com/in/varun-s-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavgarg0077" height="30" width="40" /></a>
 <a href="https://instagram.com/varun._.163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadi_kinara" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsp-163&show_icons=true&locale=en&layout=compact" alt="varunsp-163" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunsp-163&show_icons=true&locale=en" alt="varunsp-163" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsp-163&" alt="varunsp-163" /></p>
