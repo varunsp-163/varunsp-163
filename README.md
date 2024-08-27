@@ -7,7 +7,7 @@
 
 - All of my projects are available at [https://varunsp.vercel.app/](https://varunsp.vercel.app)
 
-- How to reach me : [**abhinavgarg0077@gmail.com**](https://www.linkedin.com/in/varun-s-p)
+- How to reach me : [**spvarun47@gmail.com**](https://www.linkedin.com/in/varun-s-p)
 
 - Linkedin : **@varun-s-p**
 
