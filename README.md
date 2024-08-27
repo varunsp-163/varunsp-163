@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://varunsp.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://varunsp.vercel.app/" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/163varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/163varun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/varun-s-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-s-p/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/varun._.163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/varun._.163/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/spvarun47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/spvarun47/" height="30" width="40" /></a>
+<a href="https://varunsp.vercel.app/" target="blank"><img align="center" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="https://varunsp.vercel.app/" height="30" width="40" /></a>
+<a href="https://twitter.com/163varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/163varun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varun-s-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varun-s-p/" height="30" width="40" /></a>
+<a href="https://instagram.com/varun._.163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/varun._.163/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/spvarun47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/spvarun47/" height="30" width="40" /></a>
 </p>
 
 
